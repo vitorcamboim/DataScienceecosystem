@@ -1,2 +1,2 @@
-# Trabalho solicitado pelo curso Data Science da IBM
+# Atividade solicitada pelo curso Data Science da IBM
 Work :)
